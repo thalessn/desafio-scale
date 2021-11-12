@@ -13,6 +13,10 @@ Para solucionar o desafio proposto, foi utilizado as seguintes tecnologias:
 
 ### Instruções
 
+#### Demo Online
+
+Clique [aqui](https://thalessn.github.io/desafio-scale/), para acessar uma versão online da solução da questão.
+
 #### Localmente
 
 Para iniciar, clone o projeto em sua máquina, abra a pasta challenge, e execute o seguinte comando na pasta do projeto (Ao iniciar pela primeira vez para baixar as dependências):
