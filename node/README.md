@@ -1,6 +1,6 @@
 # Desafio 2
 
-Dadas as informações sobre as fronteiras de determinados países, onde pode se acessado ao fazer uma requisição para a API, localizada no endereço: https://reqres.in/api/users, elabore um algoritmo para exibir os países através de seu número de fronteira(s) na ordem decrescente. Exemplo:
+Dadas as informações sobre as fronteiras de determinados países, onde pode ser acessado ao fazer uma requisição para a API, localizada no endereço: https://reqres.in/api/users, elabore um algoritmo para exibir os países através de seu número de fronteira(s) na ordem decrescente. Exemplo:
 
 
 Pais | Nome do País
