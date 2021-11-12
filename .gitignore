@@ -1,0 +1,13 @@
+node/node_modules
+react/challengechallenge/node_modules
+react/challenge.pnp
+react/challenge.pnp.js
+react/challengebuild
+react/challenge.DS_Store
+react/challenge.env.local
+react/challenge.env.development.local
+react/challenge.env.test.local
+react/challenge.env.production.local
+react/challengenpm-debug.log*
+react/challengeyarn-debug.log*
+react/challengeyarn-error.log*
